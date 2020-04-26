@@ -3,11 +3,12 @@ use_frameworks!
 inhibit_all_warnings!
 ENV['COCOAPODS_DISABLE_STATS'] = "true"
 
-target 'QuickChat' do
+target 'NanoChat' do
 	
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
   pod 'Firebase/Storage'
+  pod 'Firebase/Analytics'
   pod 'Kingfisher'
   pod 'Firebase/Firestore'
   pod 'ALLoadingView'

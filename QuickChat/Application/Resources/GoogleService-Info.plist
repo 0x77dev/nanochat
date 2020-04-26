@@ -2,39 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
-	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>354864973834-83u2bt8uit9kp2t9334hu9134k0ntjh9.apps.googleusercontent.com</string>
+	<string>356491468405-agsvhjfvcm364p74vvf7i8s6v009an6k.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.354864973834-83u2bt8uit9kp2t9334hu9134k0ntjh9</string>
+	<string>com.googleusercontent.apps.356491468405-agsvhjfvcm364p74vvf7i8s6v009an6k</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBYg-9BxtUPT7n1X5niLd2kdE930pzHrHI</string>
+	<string>AIzaSyABJvHjE6fDxt3yzmCdvET1kjDoPo36hCQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>354864973834</string>
+	<string>356491468405</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.mexonis.quick-chat</string>
+	<string>dev.marinenko.nanochat</string>
 	<key>PROJECT_ID</key>
-	<string>quick-b44da</string>
+	<string>nanochat-0x77dev</string>
 	<key>STORAGE_BUCKET</key>
-	<string>quick-b44da.appspot.com</string>
+	<string>nanochat-0x77dev.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true></true>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
 	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:354864973834:ios:8dd8a4de21ad886c</string>
+	<string>1:356491468405:ios:8773e004f9a23cc0d4e23c</string>
 	<key>DATABASE_URL</key>
-	<string>https://quick-b44da.firebaseio.com</string>
+	<string>https://nanochat-0x77dev.firebaseio.com</string>
 </dict>
 </plist>
